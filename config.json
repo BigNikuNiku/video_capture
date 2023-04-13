@@ -1,0 +1,18 @@
+{
+    "input": {
+        "file_full_path": "/home/yucton01/workspace/vedio_capture/video_20230408_141953.mp4"
+    },
+    "highlights": {
+        "key_time_list": [
+                               "0:01:20",
+                               "0:02:30"
+                           ],
+        "capture_option_comments": "Before, Center, After, choose of the 3 options and fill the string to capture_option",
+        "capture_option" : "Before",
+        "capture_time_in_seconds": 20
+    },
+    "output": {
+        "file_directory" : ".",
+        "file_prefix": "niku_highlights"
+    }
+}
